@@ -1,7 +1,8 @@
 # erdos-rhetorics
 
 Rhetorics for Attitudinal Convergence
-Erdős Institute, May-Summer-2024, Data Science Boot Camp
+
+For Erdős Institute Data Science Boot Camp, May-Summer-2024.
 
 Members: Adam Perhala, Jungbae An
 
