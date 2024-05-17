@@ -9,11 +9,11 @@ Members: Adam Perhala, Jungbae An
 
 1. Project overview
 We identify rhetorical strategies that can induce attitudinal convergence in discussions. We will track attitudinal changes in longitudinal discussions and infer the factors driving the convergence of attitudes among discussion participants:
-(1) Classification: Starting with a vanilla Latent Dirichlet Allocation to classify the expressed attention to each policy topic paid by each Senate member at a given time.
+(1) Classification: We classify the expressed attention to each policy topic paid by each Senate member at a given time, using a Latent Dirichlet Allocation (Blei et al. 2003).
 (2) Convergence: We examine similarity/modularity of participants' attitudes.
 (3) Network Inference (using, e.g., NetInf or its variants): Finally, we will infer the cause of converging attitudes from participant, speech, and issue characteristics.
 
-2. Stakeholders
+3. Stakeholders
   - Academic community
   - Policy makers and government agencies
   - Advocacy groups and political activists
