@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="cosine_similarity" attr.type="float"/>
+<key id="d19" for="node" attr.name="polar_rs" attr.type="string"/>
+<key id="d18" for="node" attr.name="polar" attr.type="string"/>
+<key id="d17" for="node" attr.name="leader" attr.type="string"/>
+<key id="d16" for="node" attr.name="female" attr.type="string"/>
+<key id="d15" for="node" attr.name="freshman" attr.type="string"/>
+<key id="d14" for="node" attr.name="dem" attr.type="string"/>
+<key id="d13" for="node" attr.name="abs_dwnom1_rs" attr.type="string"/>
+<key id="d12" for="node" attr.name="seniority_sq_rs" attr.type="string"/>
+<key id="d11" for="node" attr.name="seniority_rs" attr.type="string"/>
+<key id="d10" for="node" attr.name="votepct_sq100" attr.type="string"/>
+<key id="d9" for="node" attr.name="votepct100" attr.type="string"/>
+<key id="d8" for="node" attr.name="partyloyalty" attr.type="string"/>
+<key id="d7" for="node" attr.name="minuni" attr.type="string"/>
+<key id="d6" for="node" attr.name="unified" attr.type="string"/>
+<key id="d5" for="node" attr.name="minority" attr.type="string"/>
+<key id="d4" for="node" attr.name="year" attr.type="string"/>
+<key id="d3" for="node" attr.name="security" attr.type="string"/>
+<key id="d2" for="node" attr.name="powercmt" attr.type="string"/>
+<key id="d1" for="node" attr.name="govtrack" attr.type="string"/>
+<key id="d0" for="node" attr.name="thomas_name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="400367.0">
+  <data key="d0">Sessions, Pete</data>
+  <data key="d1">400367.0</data>
+  <data key="d2">1.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2011-2013</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9820359281437124</data>
+  <data key="d9">0.63</data>
+  <data key="d10">39.69</data>
+  <data key="d11">0.2413793103448276</data>
+  <data key="d12">5.826397146254459</data>
+  <data key="d13">0.5598591481227104</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">1.0</data>
+  <data key="d18">0.9956388888888889</data>
+  <data key="d19">0.9261197789334872</data>
+</node>
+<node id="400115.0">
+  <data key="d0">Dreier, David</data>
+  <data key="d1">400115.0</data>
+  <data key="d2">1.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2011-2013</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9271186440677966</data>
+  <data key="d9">0.54</data>
+  <data key="d10">29.16</data>
+  <data key="d11">0.5172413793103449</data>
+  <data key="d12">26.7538644470868</data>
+  <data key="d13">0.4190140839169983</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.9956388888888889</data>
+  <data key="d19">0.9261197789334872</data>
+</node>
+<node id="412308.0">
+  <data key="d0">Polis, Jared</data>
+  <data key="d1">412308.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2011-2013</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.906021897810219</data>
+  <data key="d9">0.57</data>
+  <data key="d10">32.49</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.2281690120541092</data>
+  <data key="d14">1.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">1.003368115942029</data>
+  <data key="d19">0.947005036725466</data>
+</node>
+<node id="400643.0">
+  <data key="d0">Foxx, Virginia</data>
+  <data key="d1">400643.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2011-2013</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9656040268456376</data>
+  <data key="d9">0.66</data>
+  <data key="d10">43.56</data>
+  <data key="d11">0.1034482758620689</data>
+  <data key="d12">1.070154577883472</data>
+  <data key="d13">0.5366197165164027</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.859976076555024</data>
+  <data key="d19">0.5595433038347865</data>
+</node>
+<edge source="400367.0" target="400115.0">
+  <data key="d20">0.7343285589157026</data>
+</edge>
+<edge source="400367.0" target="412308.0">
+  <data key="d20">0.8088252770824683</data>
+</edge>
+<edge source="400367.0" target="400643.0">
+  <data key="d20">0.7382359896171609</data>
+</edge>
+<edge source="400115.0" target="412308.0">
+  <data key="d20">0.7868891998004834</data>
+</edge>
+<edge source="400115.0" target="400643.0">
+  <data key="d20">0.7697112828732504</data>
+</edge>
+<edge source="412308.0" target="400643.0">
+  <data key="d20">0.9391628438539144</data>
+</edge>
+</graph></graphml>

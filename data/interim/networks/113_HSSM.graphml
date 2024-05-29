@@ -1,0 +1,2100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d20" for="edge" attr.name="cosine_similarity" attr.type="float"/>
+<key id="d19" for="node" attr.name="polar_rs" attr.type="string"/>
+<key id="d18" for="node" attr.name="polar" attr.type="string"/>
+<key id="d17" for="node" attr.name="leader" attr.type="string"/>
+<key id="d16" for="node" attr.name="female" attr.type="string"/>
+<key id="d15" for="node" attr.name="freshman" attr.type="string"/>
+<key id="d14" for="node" attr.name="dem" attr.type="string"/>
+<key id="d13" for="node" attr.name="abs_dwnom1_rs" attr.type="string"/>
+<key id="d12" for="node" attr.name="seniority_sq_rs" attr.type="string"/>
+<key id="d11" for="node" attr.name="seniority_rs" attr.type="string"/>
+<key id="d10" for="node" attr.name="votepct_sq100" attr.type="string"/>
+<key id="d9" for="node" attr.name="votepct100" attr.type="string"/>
+<key id="d8" for="node" attr.name="partyloyalty" attr.type="string"/>
+<key id="d7" for="node" attr.name="minuni" attr.type="string"/>
+<key id="d6" for="node" attr.name="unified" attr.type="string"/>
+<key id="d5" for="node" attr.name="minority" attr.type="string"/>
+<key id="d4" for="node" attr.name="year" attr.type="string"/>
+<key id="d3" for="node" attr.name="security" attr.type="string"/>
+<key id="d2" for="node" attr.name="powercmt" attr.type="string"/>
+<key id="d1" for="node" attr.name="govtrack" attr.type="string"/>
+<key id="d0" for="node" attr.name="thomas_name" attr.type="string"/>
+<graph edgedefault="undirected"><node id="412572.0">
+  <data key="d0">Rice, Tom</data>
+  <data key="d1">412572.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.960193003618818</data>
+  <data key="d9">0.55</data>
+  <data key="d10">30.25</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.589436610346657</data>
+  <data key="d14">0.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8265945054945054</data>
+  <data key="d19">0.4693424710339243</data>
+</node>
+<node id="400158.0">
+  <data key="d0">Graves, Sam</data>
+  <data key="d1">400158.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.968058968058968</data>
+  <data key="d9">0.65</data>
+  <data key="d10">42.25</data>
+  <data key="d11">0.2068965517241379</data>
+  <data key="d12">4.280618311533888</data>
+  <data key="d13">0.5556338083693189</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="400416.0">
+  <data key="d0">Velazquez, Nydia</data>
+  <data key="d1">400416.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9839704069050554</data>
+  <data key="d9">0.95</data>
+  <data key="d10">90.25</data>
+  <data key="d11">0.3448275862068966</data>
+  <data key="d12">11.89060642092747</data>
+  <data key="d13">0.3605633757654868</data>
+  <data key="d14">1.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="412429.0">
+  <data key="d0">Huelskamp, Tim</data>
+  <data key="d1">412429.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9366028708133972</data>
+  <data key="d9">1.0</data>
+  <data key="d10">100.0</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.6992957797356596</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.7865272727272727</data>
+  <data key="d19">0.3610762136705946</data>
+</node>
+<node id="412563.0">
+  <data key="d0">Collins, Chris</data>
+  <data key="d1">412563.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9515738498789348</data>
+  <data key="d9">0.51</data>
+  <data key="d10">26.01</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.396478868607072</data>
+  <data key="d14">0.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="412454.0">
+  <data key="d0">Hanna, Richard</data>
+  <data key="d1">412454.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.8526048284625158</data>
+  <data key="d9">0.61</data>
+  <data key="d10">37.21</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.4288732379916471</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="412292.0">
+  <data key="d0">Luetkemeyer, Blaine</data>
+  <data key="d1">412292.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9656804733727812</data>
+  <data key="d9">0.64</data>
+  <data key="d10">40.96</data>
+  <data key="d11">0.0689655172413793</data>
+  <data key="d12">0.4756242568370986</data>
+  <data key="d13">0.4633802982404693</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="412405.0">
+  <data key="d0">Tipton, Scott</data>
+  <data key="d1">412405.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9503030303030304</data>
+  <data key="d9">0.54</data>
+  <data key="d10">29.16</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.5253521298489908</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="412506.0">
+  <data key="d0">nan</data>
+  <data key="d1">412506.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">nan</data>
+  <data key="d6">0.0</data>
+  <data key="d7">nan</data>
+  <data key="d8">0.9805825242718448</data>
+  <data key="d9">nan</data>
+  <data key="d10">nan</data>
+  <data key="d11">nan</data>
+  <data key="d12">nan</data>
+  <data key="d13">nan</data>
+  <data key="d14">nan</data>
+  <data key="d15">nan</data>
+  <data key="d16">nan</data>
+  <data key="d17">nan</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="412379.0">
+  <data key="d0">Chu, Judy</data>
+  <data key="d1">412379.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9914320685434516</data>
+  <data key="d9">0.63</data>
+  <data key="d10">39.69</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.3514084379872195</data>
+  <data key="d14">1.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">1.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">1.0113682864450129</data>
+  <data key="d19">0.968622414787445</data>
+</node>
+<node id="400071.0">
+  <data key="d0">Chabot, Steve</data>
+  <data key="d1">400071.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9799291617473436</data>
+  <data key="d9">0.58</data>
+  <data key="d10">33.64</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.5971831155321612</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.9371880341880342</data>
+  <data key="d19">0.7681788670938101</data>
+</node>
+<node id="412474.0">
+  <data key="d0">Mulvaney, Mick</data>
+  <data key="d1">412474.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9498164014687882</data>
+  <data key="d9">0.56</data>
+  <data key="d10">31.36</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.7021126868962881</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="412557.0">
+  <data key="d0">Kuster, Ann</data>
+  <data key="d1">412557.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9154761904761904</data>
+  <data key="d9">0.5</data>
+  <data key="d10">25.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.1816901488414937</data>
+  <data key="d14">1.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">1.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.7865272727272727</data>
+  <data key="d19">0.3610762136705946</data>
+</node>
+<node id="412527.0">
+  <data key="d0">Murphy, Patrick</data>
+  <data key="d1">412527.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.7817319098457889</data>
+  <data key="d9">0.5</data>
+  <data key="d10">25.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.0957746483427316</data>
+  <data key="d14">1.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="400220.0">
+  <data key="d0">King, Steve</data>
+  <data key="d1">400220.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9682926829268292</data>
+  <data key="d9">0.53</data>
+  <data key="d10">28.09</data>
+  <data key="d11">0.1724137931034483</data>
+  <data key="d12">2.972651605231868</data>
+  <data key="d13">0.5105633777494664</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">1.0113682864450129</data>
+  <data key="d19">0.968622414787445</data>
+</node>
+<node id="412399.0">
+  <data key="d0">Schweikert, David</data>
+  <data key="d1">412399.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9573690621193668</data>
+  <data key="d9">0.62</data>
+  <data key="d10">38.44</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.6260563614597262</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.9353719806763284</data>
+  <data key="d19">0.7632716822621015</data>
+</node>
+<node id="412221.0">
+  <data key="d0">Clarke, Yvette</data>
+  <data key="d1">412221.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9829059829059827</data>
+  <data key="d9">0.87</data>
+  <data key="d10">75.69</data>
+  <data key="d11">0.1034482758620689</data>
+  <data key="d12">1.070154577883472</data>
+  <data key="d13">0.3894366216930518</data>
+  <data key="d14">1.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8772517482517482</data>
+  <data key="d19">0.6062241497246865</data>
+</node>
+<node id="412547.0">
+  <data key="d0">Bentivolio, Kerry</data>
+  <data key="d1">412547.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.957345971563981</data>
+  <data key="d9">0.51</data>
+  <data key="d10">26.01</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.6746479155365889</data>
+  <data key="d14">0.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.921141414141414</data>
+  <data key="d19">0.7248190596952888</data>
+</node>
+<node id="412271.0">
+  <data key="d0">Coffman, Mike</data>
+  <data key="d1">412271.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9324644549763034</data>
+  <data key="d9">0.49</data>
+  <data key="d10">24.01</data>
+  <data key="d11">0.0689655172413793</data>
+  <data key="d12">0.4756242568370986</data>
+  <data key="d13">0.5802817145434922</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.7865272727272727</data>
+  <data key="d19">0.3610762136705946</data>
+</node>
+<node id="412214.0">
+  <data key="d0">Walz, Timothy</data>
+  <data key="d1">412214.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.8805790108564535</data>
+  <data key="d9">0.58</data>
+  <data key="d10">33.64</data>
+  <data key="d11">0.1034482758620689</data>
+  <data key="d12">1.070154577883472</data>
+  <data key="d13">0.1915493029161425</data>
+  <data key="d14">1.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.7865272727272727</data>
+  <data key="d19">0.3610762136705946</data>
+</node>
+<node id="412520.0">
+  <data key="d0">Takano, Mark</data>
+  <data key="d1">412520.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.975177304964539</data>
+  <data key="d9">0.56</data>
+  <data key="d10">31.36</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.3514084379872195</data>
+  <data key="d14">1.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.7865272727272727</data>
+  <data key="d19">0.3610762136705946</data>
+</node>
+<node id="412560.0">
+  <data key="d0">Meng, Grace</data>
+  <data key="d1">412560.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9621489621489622</data>
+  <data key="d9">0.68</data>
+  <data key="d10">46.24</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.2619718350189986</data>
+  <data key="d14">1.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">1.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.9371880341880342</data>
+  <data key="d19">0.7681788670938101</data>
+</node>
+<node id="412286.0">
+  <data key="d0">Kirkpatrick, Ann</data>
+  <data key="d1">412286.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.8620689655172413</data>
+  <data key="d9">0.49</data>
+  <data key="d10">24.01</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.1288732445174638</data>
+  <data key="d14">1.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">1.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.7865272727272727</data>
+  <data key="d19">0.3610762136705946</data>
+</node>
+<node id="412498.0">
+  <data key="d0">Hahn, Janice</data>
+  <data key="d1">412498.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9739952718676124</data>
+  <data key="d9">0.6</data>
+  <data key="d10">36.0</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.3161971824295672</data>
+  <data key="d14">1.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.8265945054945054</data>
+  <data key="d19">0.4693424710339243</data>
+</node>
+<node id="412502.0">
+  <data key="d0">Barber, Ron</data>
+  <data key="d1">412502.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.6820388349514563</data>
+  <data key="d9">0.5</data>
+  <data key="d10">25.0</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.0598591555011464</data>
+  <data key="d14">1.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.7724354679802956</data>
+  <data key="d19">0.3229985413663141</data>
+</node>
+<node id="412315.0">
+  <data key="d0">Schrader, Kurt</data>
+  <data key="d1">412315.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.8145065398335315</data>
+  <data key="d9">0.54</data>
+  <data key="d10">29.16</data>
+  <data key="d11">0.0689655172413793</data>
+  <data key="d12">0.4756242568370986</data>
+  <data key="d13">0.1654929641492062</data>
+  <data key="d14">1.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.7673316498316498</data>
+  <data key="d19">0.3092074394844587</data>
+</node>
+<node id="412486.0">
+  <data key="d0">Herrera Beutler, Jaime</data>
+  <data key="d1">412486.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.8932038834951457</data>
+  <data key="d9">0.6</data>
+  <data key="d10">36.0</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.5260563461453723</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.9285210727969349</data>
+  <data key="d19">0.7447597435926188</data>
+</node>
+<node id="412534.0">
+  <data key="d0">Schneider, Bradley</data>
+  <data key="d1">412534.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.8609431680773881</data>
+  <data key="d9">0.51</data>
+  <data key="d10">26.01</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.1274647909371495</data>
+  <data key="d14">1.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.9371880341880342</data>
+  <data key="d19">0.7681788670938101</data>
+</node>
+<node id="412500.0">
+  <data key="d0">Amodei, Mark</data>
+  <data key="d1">412500.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9387755102040816</data>
+  <data key="d9">0.58</data>
+  <data key="d10">33.64</data>
+  <data key="d11">0.0344827586206896</data>
+  <data key="d12">0.1189060642092746</data>
+  <data key="d13">0.455633793054965</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">1.0113682864450129</data>
+  <data key="d19">0.968622414787445</data>
+</node>
+<node id="412397.0">
+  <data key="d0">Gosar, Paul</data>
+  <data key="d1">412397.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9472222222222222</data>
+  <data key="d9">0.67</data>
+  <data key="d10">44.89</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.5661971787403491</data>
+  <data key="d14">0.0</data>
+  <data key="d15">1.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.921141414141414</data>
+  <data key="d19">0.7248190596952888</data>
+</node>
+<node id="412310.0">
+  <data key="d0">Roe, David</data>
+  <data key="d1">412310.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.0</data>
+  <data key="d4">2013-2015</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0</data>
+  <data key="d7">0.0</data>
+  <data key="d8">0.9656398104265402</data>
+  <data key="d9">0.76</data>
+  <data key="d10">57.76</data>
+  <data key="d11">0.0689655172413793</data>
+  <data key="d12">0.4756242568370986</data>
+  <data key="d13">0.5204225318241151</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.0</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.0</data>
+  <data key="d18">0.9239885583524028</data>
+  <data key="d19">0.7325123698294865</data>
+</node>
+<edge source="412572.0" target="400158.0">
+  <data key="d20">0.8719500593799564</data>
+</edge>
+<edge source="412572.0" target="400416.0">
+  <data key="d20">0.9078908760158138</data>
+</edge>
+<edge source="412572.0" target="412429.0">
+  <data key="d20">0.8779161877923551</data>
+</edge>
+<edge source="412572.0" target="412563.0">
+  <data key="d20">0.9081510547271603</data>
+</edge>
+<edge source="412572.0" target="412454.0">
+  <data key="d20">0.8953697101074297</data>
+</edge>
+<edge source="412572.0" target="412292.0">
+  <data key="d20">0.921550116858587</data>
+</edge>
+<edge source="412572.0" target="412405.0">
+  <data key="d20">0.9046347716122779</data>
+</edge>
+<edge source="412572.0" target="412506.0">
+  <data key="d20">0.8890623527014566</data>
+</edge>
+<edge source="412572.0" target="412379.0">
+  <data key="d20">0.9114666418800995</data>
+</edge>
+<edge source="412572.0" target="400071.0">
+  <data key="d20">0.920570555008699</data>
+</edge>
+<edge source="412572.0" target="412474.0">
+  <data key="d20">0.9180195589130605</data>
+</edge>
+<edge source="412572.0" target="412557.0">
+  <data key="d20">0.8000219407563646</data>
+</edge>
+<edge source="412572.0" target="412527.0">
+  <data key="d20">0.8353823233473483</data>
+</edge>
+<edge source="412572.0" target="400220.0">
+  <data key="d20">0.7224047922422429</data>
+</edge>
+<edge source="412572.0" target="412399.0">
+  <data key="d20">0.9173124267606858</data>
+</edge>
+<edge source="412572.0" target="412221.0">
+  <data key="d20">0.9271616802451568</data>
+</edge>
+<edge source="412572.0" target="412547.0">
+  <data key="d20">0.9084401276527672</data>
+</edge>
+<edge source="412572.0" target="412271.0">
+  <data key="d20">0.696250801912981</data>
+</edge>
+<edge source="412572.0" target="412214.0">
+  <data key="d20">0.6168304123325808</data>
+</edge>
+<edge source="412572.0" target="412520.0">
+  <data key="d20">0.20131109800590655</data>
+</edge>
+<edge source="412572.0" target="412560.0">
+  <data key="d20">0.8704183995317839</data>
+</edge>
+<edge source="412572.0" target="412286.0">
+  <data key="d20">0.5792739627440704</data>
+</edge>
+<edge source="412572.0" target="412498.0">
+  <data key="d20">0.7893142207556213</data>
+</edge>
+<edge source="412572.0" target="412502.0">
+  <data key="d20">0.7970779476087632</data>
+</edge>
+<edge source="412572.0" target="412315.0">
+  <data key="d20">0.846103367133672</data>
+</edge>
+<edge source="412572.0" target="412486.0">
+  <data key="d20">0.5480459012209349</data>
+</edge>
+<edge source="412572.0" target="412534.0">
+  <data key="d20">0.8423849903331849</data>
+</edge>
+<edge source="412572.0" target="412500.0">
+  <data key="d20">0.6201735507432865</data>
+</edge>
+<edge source="412572.0" target="412397.0">
+  <data key="d20">0.6584215696879578</data>
+</edge>
+<edge source="412572.0" target="412310.0">
+  <data key="d20">0.535313469542662</data>
+</edge>
+<edge source="400158.0" target="400416.0">
+  <data key="d20">0.9439851524155162</data>
+</edge>
+<edge source="400158.0" target="412429.0">
+  <data key="d20">0.9128976886726071</data>
+</edge>
+<edge source="400158.0" target="412563.0">
+  <data key="d20">0.8916512279173031</data>
+</edge>
+<edge source="400158.0" target="412454.0">
+  <data key="d20">0.9384425637712339</data>
+</edge>
+<edge source="400158.0" target="412292.0">
+  <data key="d20">0.9492959711330198</data>
+</edge>
+<edge source="400158.0" target="412405.0">
+  <data key="d20">0.9268487675297776</data>
+</edge>
+<edge source="400158.0" target="412506.0">
+  <data key="d20">0.9501558425228324</data>
+</edge>
+<edge source="400158.0" target="412379.0">
+  <data key="d20">0.9002458745090605</data>
+</edge>
+<edge source="400158.0" target="400071.0">
+  <data key="d20">0.8428131309752349</data>
+</edge>
+<edge source="400158.0" target="412474.0">
+  <data key="d20">0.9020757708670967</data>
+</edge>
+<edge source="400158.0" target="412557.0">
+  <data key="d20">0.6104187370414292</data>
+</edge>
+<edge source="400158.0" target="412527.0">
+  <data key="d20">0.8705379527193263</data>
+</edge>
+<edge source="400158.0" target="400220.0">
+  <data key="d20">0.6892724346585374</data>
+</edge>
+<edge source="400158.0" target="412399.0">
+  <data key="d20">0.940523823126367</data>
+</edge>
+<edge source="400158.0" target="412221.0">
+  <data key="d20">0.9194966164601286</data>
+</edge>
+<edge source="400158.0" target="412547.0">
+  <data key="d20">0.9221852519104674</data>
+</edge>
+<edge source="400158.0" target="412271.0">
+  <data key="d20">0.7749441452111083</data>
+</edge>
+<edge source="400158.0" target="412214.0">
+  <data key="d20">0.6705186159761589</data>
+</edge>
+<edge source="400158.0" target="412520.0">
+  <data key="d20">0.18642425243314836</data>
+</edge>
+<edge source="400158.0" target="412560.0">
+  <data key="d20">0.9142516032757736</data>
+</edge>
+<edge source="400158.0" target="412286.0">
+  <data key="d20">0.68699590515398</data>
+</edge>
+<edge source="400158.0" target="412498.0">
+  <data key="d20">0.7931408847058742</data>
+</edge>
+<edge source="400158.0" target="412502.0">
+  <data key="d20">0.8886161992874452</data>
+</edge>
+<edge source="400158.0" target="412315.0">
+  <data key="d20">0.890394993396781</data>
+</edge>
+<edge source="400158.0" target="412486.0">
+  <data key="d20">0.5689788263181459</data>
+</edge>
+<edge source="400158.0" target="412534.0">
+  <data key="d20">0.8492782564656229</data>
+</edge>
+<edge source="400158.0" target="412500.0">
+  <data key="d20">0.5771312896251702</data>
+</edge>
+<edge source="400158.0" target="412397.0">
+  <data key="d20">0.8094230046201457</data>
+</edge>
+<edge source="400158.0" target="412310.0">
+  <data key="d20">0.525933432003437</data>
+</edge>
+<edge source="400416.0" target="412429.0">
+  <data key="d20">0.910215911392285</data>
+</edge>
+<edge source="400416.0" target="412563.0">
+  <data key="d20">0.9370761305949147</data>
+</edge>
+<edge source="400416.0" target="412454.0">
+  <data key="d20">0.9703369530131087</data>
+</edge>
+<edge source="400416.0" target="412292.0">
+  <data key="d20">0.9716593955577475</data>
+</edge>
+<edge source="400416.0" target="412405.0">
+  <data key="d20">0.9147365361077591</data>
+</edge>
+<edge source="400416.0" target="412506.0">
+  <data key="d20">0.9331673212987329</data>
+</edge>
+<edge source="400416.0" target="412379.0">
+  <data key="d20">0.9308437659768765</data>
+</edge>
+<edge source="400416.0" target="400071.0">
+  <data key="d20">0.8923004448901407</data>
+</edge>
+<edge source="400416.0" target="412474.0">
+  <data key="d20">0.9354020555588992</data>
+</edge>
+<edge source="400416.0" target="412557.0">
+  <data key="d20">0.6472639783838002</data>
+</edge>
+<edge source="400416.0" target="412527.0">
+  <data key="d20">0.9046285453162224</data>
+</edge>
+<edge source="400416.0" target="400220.0">
+  <data key="d20">0.6658750232907317</data>
+</edge>
+<edge source="400416.0" target="412399.0">
+  <data key="d20">0.9425066125233927</data>
+</edge>
+<edge source="400416.0" target="412221.0">
+  <data key="d20">0.950554810310287</data>
+</edge>
+<edge source="400416.0" target="412547.0">
+  <data key="d20">0.9430260664026406</data>
+</edge>
+<edge source="400416.0" target="412271.0">
+  <data key="d20">0.80360631704412</data>
+</edge>
+<edge source="400416.0" target="412214.0">
+  <data key="d20">0.7363225752705292</data>
+</edge>
+<edge source="400416.0" target="412520.0">
+  <data key="d20">0.16506572745669149</data>
+</edge>
+<edge source="400416.0" target="412560.0">
+  <data key="d20">0.92184413621511</data>
+</edge>
+<edge source="400416.0" target="412286.0">
+  <data key="d20">0.6906650620304968</data>
+</edge>
+<edge source="400416.0" target="412498.0">
+  <data key="d20">0.8308176268980857</data>
+</edge>
+<edge source="400416.0" target="412502.0">
+  <data key="d20">0.9315803077202354</data>
+</edge>
+<edge source="400416.0" target="412315.0">
+  <data key="d20">0.9159409507721041</data>
+</edge>
+<edge source="400416.0" target="412486.0">
+  <data key="d20">0.660255962374456</data>
+</edge>
+<edge source="400416.0" target="412534.0">
+  <data key="d20">0.8821233611326849</data>
+</edge>
+<edge source="400416.0" target="412500.0">
+  <data key="d20">0.6018344937058925</data>
+</edge>
+<edge source="400416.0" target="412397.0">
+  <data key="d20">0.7559882096559035</data>
+</edge>
+<edge source="400416.0" target="412310.0">
+  <data key="d20">0.5653840966734461</data>
+</edge>
+<edge source="412429.0" target="412563.0">
+  <data key="d20">0.9282856561049206</data>
+</edge>
+<edge source="412429.0" target="412454.0">
+  <data key="d20">0.9285391682978793</data>
+</edge>
+<edge source="412429.0" target="412292.0">
+  <data key="d20">0.9556054968008827</data>
+</edge>
+<edge source="412429.0" target="412405.0">
+  <data key="d20">0.8954879132025724</data>
+</edge>
+<edge source="412429.0" target="412506.0">
+  <data key="d20">0.8749778116113647</data>
+</edge>
+<edge source="412429.0" target="412379.0">
+  <data key="d20">0.8946636956683797</data>
+</edge>
+<edge source="412429.0" target="400071.0">
+  <data key="d20">0.8553307487710059</data>
+</edge>
+<edge source="412429.0" target="412474.0">
+  <data key="d20">0.9423147365846273</data>
+</edge>
+<edge source="412429.0" target="412557.0">
+  <data key="d20">0.6265365563045074</data>
+</edge>
+<edge source="412429.0" target="412527.0">
+  <data key="d20">0.8580077684091307</data>
+</edge>
+<edge source="412429.0" target="400220.0">
+  <data key="d20">0.72825292883016</data>
+</edge>
+<edge source="412429.0" target="412399.0">
+  <data key="d20">0.9020354703400786</data>
+</edge>
+<edge source="412429.0" target="412221.0">
+  <data key="d20">0.9280109299597914</data>
+</edge>
+<edge source="412429.0" target="412547.0">
+  <data key="d20">0.913830183688282</data>
+</edge>
+<edge source="412429.0" target="412271.0">
+  <data key="d20">0.7288982583970441</data>
+</edge>
+<edge source="412429.0" target="412214.0">
+  <data key="d20">0.6737816958882126</data>
+</edge>
+<edge source="412429.0" target="412520.0">
+  <data key="d20">0.15716045946982127</data>
+</edge>
+<edge source="412429.0" target="412560.0">
+  <data key="d20">0.9204936804539333</data>
+</edge>
+<edge source="412429.0" target="412286.0">
+  <data key="d20">0.6512052945991869</data>
+</edge>
+<edge source="412429.0" target="412498.0">
+  <data key="d20">0.8843943011703427</data>
+</edge>
+<edge source="412429.0" target="412502.0">
+  <data key="d20">0.8506463566520556</data>
+</edge>
+<edge source="412429.0" target="412315.0">
+  <data key="d20">0.8816951043008376</data>
+</edge>
+<edge source="412429.0" target="412486.0">
+  <data key="d20">0.5918795189768521</data>
+</edge>
+<edge source="412429.0" target="412534.0">
+  <data key="d20">0.9216655041385846</data>
+</edge>
+<edge source="412429.0" target="412500.0">
+  <data key="d20">0.6767673410759356</data>
+</edge>
+<edge source="412429.0" target="412397.0">
+  <data key="d20">0.6943980177973728</data>
+</edge>
+<edge source="412429.0" target="412310.0">
+  <data key="d20">0.5525854229472945</data>
+</edge>
+<edge source="412563.0" target="412454.0">
+  <data key="d20">0.93707862720913</data>
+</edge>
+<edge source="412563.0" target="412292.0">
+  <data key="d20">0.9573074065089107</data>
+</edge>
+<edge source="412563.0" target="412405.0">
+  <data key="d20">0.9117003557302823</data>
+</edge>
+<edge source="412563.0" target="412506.0">
+  <data key="d20">0.8772497359743969</data>
+</edge>
+<edge source="412563.0" target="412379.0">
+  <data key="d20">0.9028700975882141</data>
+</edge>
+<edge source="412563.0" target="400071.0">
+  <data key="d20">0.8827819406900507</data>
+</edge>
+<edge source="412563.0" target="412474.0">
+  <data key="d20">0.9637167495445906</data>
+</edge>
+<edge source="412563.0" target="412557.0">
+  <data key="d20">0.7266515439575146</data>
+</edge>
+<edge source="412563.0" target="412527.0">
+  <data key="d20">0.8871362612849972</data>
+</edge>
+<edge source="412563.0" target="400220.0">
+  <data key="d20">0.7253686498403727</data>
+</edge>
+<edge source="412563.0" target="412399.0">
+  <data key="d20">0.9173745729429106</data>
+</edge>
+<edge source="412563.0" target="412221.0">
+  <data key="d20">0.9179827300473433</data>
+</edge>
+<edge source="412563.0" target="412547.0">
+  <data key="d20">0.9084650687755059</data>
+</edge>
+<edge source="412563.0" target="412271.0">
+  <data key="d20">0.7120317611782004</data>
+</edge>
+<edge source="412563.0" target="412214.0">
+  <data key="d20">0.6103731944260675</data>
+</edge>
+<edge source="412563.0" target="412520.0">
+  <data key="d20">0.13939776037267143</data>
+</edge>
+<edge source="412563.0" target="412560.0">
+  <data key="d20">0.8972287913750799</data>
+</edge>
+<edge source="412563.0" target="412286.0">
+  <data key="d20">0.6130001931622164</data>
+</edge>
+<edge source="412563.0" target="412498.0">
+  <data key="d20">0.9185071537458054</data>
+</edge>
+<edge source="412563.0" target="412502.0">
+  <data key="d20">0.8598374927538396</data>
+</edge>
+<edge source="412563.0" target="412315.0">
+  <data key="d20">0.875137729304796</data>
+</edge>
+<edge source="412563.0" target="412486.0">
+  <data key="d20">0.6650669406268912</data>
+</edge>
+<edge source="412563.0" target="412534.0">
+  <data key="d20">0.8785816974143326</data>
+</edge>
+<edge source="412563.0" target="412500.0">
+  <data key="d20">0.6422835711568248</data>
+</edge>
+<edge source="412563.0" target="412397.0">
+  <data key="d20">0.735878967282256</data>
+</edge>
+<edge source="412563.0" target="412310.0">
+  <data key="d20">0.5313559165735019</data>
+</edge>
+<edge source="412454.0" target="412292.0">
+  <data key="d20">0.964292230330795</data>
+</edge>
+<edge source="412454.0" target="412405.0">
+  <data key="d20">0.9156814481433817</data>
+</edge>
+<edge source="412454.0" target="412506.0">
+  <data key="d20">0.9181551116738221</data>
+</edge>
+<edge source="412454.0" target="412379.0">
+  <data key="d20">0.9339931179955888</data>
+</edge>
+<edge source="412454.0" target="400071.0">
+  <data key="d20">0.8911020033830044</data>
+</edge>
+<edge source="412454.0" target="412474.0">
+  <data key="d20">0.9491905364263858</data>
+</edge>
+<edge source="412454.0" target="412557.0">
+  <data key="d20">0.6978722945919198</data>
+</edge>
+<edge source="412454.0" target="412527.0">
+  <data key="d20">0.8867359709473178</data>
+</edge>
+<edge source="412454.0" target="400220.0">
+  <data key="d20">0.6893494638876464</data>
+</edge>
+<edge source="412454.0" target="412399.0">
+  <data key="d20">0.9563180270503143</data>
+</edge>
+<edge source="412454.0" target="412221.0">
+  <data key="d20">0.9621613702924976</data>
+</edge>
+<edge source="412454.0" target="412547.0">
+  <data key="d20">0.9498421916131332</data>
+</edge>
+<edge source="412454.0" target="412271.0">
+  <data key="d20">0.806546541122427</data>
+</edge>
+<edge source="412454.0" target="412214.0">
+  <data key="d20">0.7021808956605669</data>
+</edge>
+<edge source="412454.0" target="412520.0">
+  <data key="d20">0.16616095586342366</data>
+</edge>
+<edge source="412454.0" target="412560.0">
+  <data key="d20">0.9649771774170116</data>
+</edge>
+<edge source="412454.0" target="412286.0">
+  <data key="d20">0.7533882588466454</data>
+</edge>
+<edge source="412454.0" target="412498.0">
+  <data key="d20">0.8414314449197734</data>
+</edge>
+<edge source="412454.0" target="412502.0">
+  <data key="d20">0.9304435852699463</data>
+</edge>
+<edge source="412454.0" target="412315.0">
+  <data key="d20">0.9026917386769427</data>
+</edge>
+<edge source="412454.0" target="412486.0">
+  <data key="d20">0.5771076616067349</data>
+</edge>
+<edge source="412454.0" target="412534.0">
+  <data key="d20">0.8737806404332265</data>
+</edge>
+<edge source="412454.0" target="412500.0">
+  <data key="d20">0.6490799390284013</data>
+</edge>
+<edge source="412454.0" target="412397.0">
+  <data key="d20">0.7876633214002577</data>
+</edge>
+<edge source="412454.0" target="412310.0">
+  <data key="d20">0.6312653673932347</data>
+</edge>
+<edge source="412292.0" target="412405.0">
+  <data key="d20">0.9508721453602733</data>
+</edge>
+<edge source="412292.0" target="412506.0">
+  <data key="d20">0.920025479699477</data>
+</edge>
+<edge source="412292.0" target="412379.0">
+  <data key="d20">0.94193514430996</data>
+</edge>
+<edge source="412292.0" target="400071.0">
+  <data key="d20">0.9154296291722658</data>
+</edge>
+<edge source="412292.0" target="412474.0">
+  <data key="d20">0.9696182617944602</data>
+</edge>
+<edge source="412292.0" target="412557.0">
+  <data key="d20">0.6944209398391088</data>
+</edge>
+<edge source="412292.0" target="412527.0">
+  <data key="d20">0.9335198913611107</data>
+</edge>
+<edge source="412292.0" target="400220.0">
+  <data key="d20">0.7663015621920954</data>
+</edge>
+<edge source="412292.0" target="412399.0">
+  <data key="d20">0.9515645134747013</data>
+</edge>
+<edge source="412292.0" target="412221.0">
+  <data key="d20">0.9574964342773702</data>
+</edge>
+<edge source="412292.0" target="412547.0">
+  <data key="d20">0.9488334799530249</data>
+</edge>
+<edge source="412292.0" target="412271.0">
+  <data key="d20">0.7989999032848245</data>
+</edge>
+<edge source="412292.0" target="412214.0">
+  <data key="d20">0.7277861668675076</data>
+</edge>
+<edge source="412292.0" target="412520.0">
+  <data key="d20">0.14972077908759268</data>
+</edge>
+<edge source="412292.0" target="412560.0">
+  <data key="d20">0.9419914287316173</data>
+</edge>
+<edge source="412292.0" target="412286.0">
+  <data key="d20">0.7120147467628922</data>
+</edge>
+<edge source="412292.0" target="412498.0">
+  <data key="d20">0.8589608700812046</data>
+</edge>
+<edge source="412292.0" target="412502.0">
+  <data key="d20">0.8946969109711904</data>
+</edge>
+<edge source="412292.0" target="412315.0">
+  <data key="d20">0.928226629799814</data>
+</edge>
+<edge source="412292.0" target="412486.0">
+  <data key="d20">0.6414725774292931</data>
+</edge>
+<edge source="412292.0" target="412534.0">
+  <data key="d20">0.8787399659449018</data>
+</edge>
+<edge source="412292.0" target="412500.0">
+  <data key="d20">0.6894707319009857</data>
+</edge>
+<edge source="412292.0" target="412397.0">
+  <data key="d20">0.7455106775948325</data>
+</edge>
+<edge source="412292.0" target="412310.0">
+  <data key="d20">0.5863408439600716</data>
+</edge>
+<edge source="412405.0" target="412506.0">
+  <data key="d20">0.8692489277437189</data>
+</edge>
+<edge source="412405.0" target="412379.0">
+  <data key="d20">0.9231301021413629</data>
+</edge>
+<edge source="412405.0" target="400071.0">
+  <data key="d20">0.8864250121906203</data>
+</edge>
+<edge source="412405.0" target="412474.0">
+  <data key="d20">0.9083076022155169</data>
+</edge>
+<edge source="412405.0" target="412557.0">
+  <data key="d20">0.7318749137430669</data>
+</edge>
+<edge source="412405.0" target="412527.0">
+  <data key="d20">0.9506776299762167</data>
+</edge>
+<edge source="412405.0" target="400220.0">
+  <data key="d20">0.7987618311729758</data>
+</edge>
+<edge source="412405.0" target="412399.0">
+  <data key="d20">0.920406270306942</data>
+</edge>
+<edge source="412405.0" target="412221.0">
+  <data key="d20">0.9042492626189931</data>
+</edge>
+<edge source="412405.0" target="412547.0">
+  <data key="d20">0.8983289137620848</data>
+</edge>
+<edge source="412405.0" target="412271.0">
+  <data key="d20">0.7463895958399762</data>
+</edge>
+<edge source="412405.0" target="412214.0">
+  <data key="d20">0.6691094031411277</data>
+</edge>
+<edge source="412405.0" target="412520.0">
+  <data key="d20">0.17358227711401647</data>
+</edge>
+<edge source="412405.0" target="412560.0">
+  <data key="d20">0.9042034022711974</data>
+</edge>
+<edge source="412405.0" target="412286.0">
+  <data key="d20">0.6753184236173555</data>
+</edge>
+<edge source="412405.0" target="412498.0">
+  <data key="d20">0.7671008504784882</data>
+</edge>
+<edge source="412405.0" target="412502.0">
+  <data key="d20">0.8198575340820091</data>
+</edge>
+<edge source="412405.0" target="412315.0">
+  <data key="d20">0.8784682183493439</data>
+</edge>
+<edge source="412405.0" target="412486.0">
+  <data key="d20">0.5098172322104925</data>
+</edge>
+<edge source="412405.0" target="412534.0">
+  <data key="d20">0.8018514765044433</data>
+</edge>
+<edge source="412405.0" target="412500.0">
+  <data key="d20">0.7065168090006534</data>
+</edge>
+<edge source="412405.0" target="412397.0">
+  <data key="d20">0.7317523258695027</data>
+</edge>
+<edge source="412405.0" target="412310.0">
+  <data key="d20">0.5835997190391673</data>
+</edge>
+<edge source="412506.0" target="412379.0">
+  <data key="d20">0.8756125841134109</data>
+</edge>
+<edge source="412506.0" target="400071.0">
+  <data key="d20">0.8235098260278562</data>
+</edge>
+<edge source="412506.0" target="412474.0">
+  <data key="d20">0.8973006724878071</data>
+</edge>
+<edge source="412506.0" target="412557.0">
+  <data key="d20">0.5803458022549933</data>
+</edge>
+<edge source="412506.0" target="412527.0">
+  <data key="d20">0.7935130301807674</data>
+</edge>
+<edge source="412506.0" target="400220.0">
+  <data key="d20">0.613286535360844</data>
+</edge>
+<edge source="412506.0" target="412399.0">
+  <data key="d20">0.9201039470010792</data>
+</edge>
+<edge source="412506.0" target="412221.0">
+  <data key="d20">0.9002606777528014</data>
+</edge>
+<edge source="412506.0" target="412547.0">
+  <data key="d20">0.9088845528656333</data>
+</edge>
+<edge source="412506.0" target="412271.0">
+  <data key="d20">0.7639048115157846</data>
+</edge>
+<edge source="412506.0" target="412214.0">
+  <data key="d20">0.6279584934715073</data>
+</edge>
+<edge source="412506.0" target="412520.0">
+  <data key="d20">0.17041833383450194</data>
+</edge>
+<edge source="412506.0" target="412560.0">
+  <data key="d20">0.883741929235281</data>
+</edge>
+<edge source="412506.0" target="412286.0">
+  <data key="d20">0.654178769846111</data>
+</edge>
+<edge source="412506.0" target="412498.0">
+  <data key="d20">0.824706147541712</data>
+</edge>
+<edge source="412506.0" target="412502.0">
+  <data key="d20">0.8604359160255248</data>
+</edge>
+<edge source="412506.0" target="412315.0">
+  <data key="d20">0.8708390877347549</data>
+</edge>
+<edge source="412506.0" target="412486.0">
+  <data key="d20">0.6084116555656123</data>
+</edge>
+<edge source="412506.0" target="412534.0">
+  <data key="d20">0.8482361658689797</data>
+</edge>
+<edge source="412506.0" target="412500.0">
+  <data key="d20">0.5115208406089841</data>
+</edge>
+<edge source="412506.0" target="412397.0">
+  <data key="d20">0.7709466717559016</data>
+</edge>
+<edge source="412506.0" target="412310.0">
+  <data key="d20">0.5133703570408107</data>
+</edge>
+<edge source="412379.0" target="400071.0">
+  <data key="d20">0.9346153986673829</data>
+</edge>
+<edge source="412379.0" target="412474.0">
+  <data key="d20">0.9299940014966532</data>
+</edge>
+<edge source="412379.0" target="412557.0">
+  <data key="d20">0.7579714307914481</data>
+</edge>
+<edge source="412379.0" target="412527.0">
+  <data key="d20">0.898731662343069</data>
+</edge>
+<edge source="412379.0" target="400220.0">
+  <data key="d20">0.8096910736844186</data>
+</edge>
+<edge source="412379.0" target="412399.0">
+  <data key="d20">0.9400676794319162</data>
+</edge>
+<edge source="412379.0" target="412221.0">
+  <data key="d20">0.9575308022225555</data>
+</edge>
+<edge source="412379.0" target="412547.0">
+  <data key="d20">0.9372012057113482</data>
+</edge>
+<edge source="412379.0" target="412271.0">
+  <data key="d20">0.774415017991864</data>
+</edge>
+<edge source="412379.0" target="412214.0">
+  <data key="d20">0.6913195446245907</data>
+</edge>
+<edge source="412379.0" target="412520.0">
+  <data key="d20">0.18102445346005847</data>
+</edge>
+<edge source="412379.0" target="412560.0">
+  <data key="d20">0.9316826785138329</data>
+</edge>
+<edge source="412379.0" target="412286.0">
+  <data key="d20">0.6768923568185807</data>
+</edge>
+<edge source="412379.0" target="412498.0">
+  <data key="d20">0.7674734556981705</data>
+</edge>
+<edge source="412379.0" target="412502.0">
+  <data key="d20">0.8951099357056348</data>
+</edge>
+<edge source="412379.0" target="412315.0">
+  <data key="d20">0.8757222738795503</data>
+</edge>
+<edge source="412379.0" target="412486.0">
+  <data key="d20">0.5339292298330439</data>
+</edge>
+<edge source="412379.0" target="412534.0">
+  <data key="d20">0.8046700767159775</data>
+</edge>
+<edge source="412379.0" target="412500.0">
+  <data key="d20">0.7495270631638264</data>
+</edge>
+<edge source="412379.0" target="412397.0">
+  <data key="d20">0.6998326264344515</data>
+</edge>
+<edge source="412379.0" target="412310.0">
+  <data key="d20">0.6628073832137792</data>
+</edge>
+<edge source="400071.0" target="412474.0">
+  <data key="d20">0.9152225521919288</data>
+</edge>
+<edge source="400071.0" target="412557.0">
+  <data key="d20">0.7682767567590595</data>
+</edge>
+<edge source="400071.0" target="412527.0">
+  <data key="d20">0.8933270198780937</data>
+</edge>
+<edge source="400071.0" target="400220.0">
+  <data key="d20">0.7928760990098616</data>
+</edge>
+<edge source="400071.0" target="412399.0">
+  <data key="d20">0.9162066057716847</data>
+</edge>
+<edge source="400071.0" target="412221.0">
+  <data key="d20">0.923082939853391</data>
+</edge>
+<edge source="400071.0" target="412547.0">
+  <data key="d20">0.8839972918966037</data>
+</edge>
+<edge source="400071.0" target="412271.0">
+  <data key="d20">0.7036792940234611</data>
+</edge>
+<edge source="400071.0" target="412214.0">
+  <data key="d20">0.6303244720459449</data>
+</edge>
+<edge source="400071.0" target="412520.0">
+  <data key="d20">0.10366601138576825</data>
+</edge>
+<edge source="400071.0" target="412560.0">
+  <data key="d20">0.8944699115290363</data>
+</edge>
+<edge source="400071.0" target="412286.0">
+  <data key="d20">0.6262311742526755</data>
+</edge>
+<edge source="400071.0" target="412498.0">
+  <data key="d20">0.7386857851369759</data>
+</edge>
+<edge source="400071.0" target="412502.0">
+  <data key="d20">0.8445972580188096</data>
+</edge>
+<edge source="400071.0" target="412315.0">
+  <data key="d20">0.8169280953683669</data>
+</edge>
+<edge source="400071.0" target="412486.0">
+  <data key="d20">0.49241029851949353</data>
+</edge>
+<edge source="400071.0" target="412534.0">
+  <data key="d20">0.8000054297249878</data>
+</edge>
+<edge source="400071.0" target="412500.0">
+  <data key="d20">0.7281452750042486</data>
+</edge>
+<edge source="400071.0" target="412397.0">
+  <data key="d20">0.7023155962970936</data>
+</edge>
+<edge source="400071.0" target="412310.0">
+  <data key="d20">0.5767655378790443</data>
+</edge>
+<edge source="412474.0" target="412557.0">
+  <data key="d20">0.7094366592039563</data>
+</edge>
+<edge source="412474.0" target="412527.0">
+  <data key="d20">0.8869212715254533</data>
+</edge>
+<edge source="412474.0" target="400220.0">
+  <data key="d20">0.7603443388202759</data>
+</edge>
+<edge source="412474.0" target="412399.0">
+  <data key="d20">0.9436624664741238</data>
+</edge>
+<edge source="412474.0" target="412221.0">
+  <data key="d20">0.9469537200102358</data>
+</edge>
+<edge source="412474.0" target="412547.0">
+  <data key="d20">0.9580207003150358</data>
+</edge>
+<edge source="412474.0" target="412271.0">
+  <data key="d20">0.7186645028394331</data>
+</edge>
+<edge source="412474.0" target="412214.0">
+  <data key="d20">0.6179007611130052</data>
+</edge>
+<edge source="412474.0" target="412520.0">
+  <data key="d20">0.11750661057545635</data>
+</edge>
+<edge source="412474.0" target="412560.0">
+  <data key="d20">0.9306537367086929</data>
+</edge>
+<edge source="412474.0" target="412286.0">
+  <data key="d20">0.6509307679013137</data>
+</edge>
+<edge source="412474.0" target="412498.0">
+  <data key="d20">0.8939005742641847</data>
+</edge>
+<edge source="412474.0" target="412502.0">
+  <data key="d20">0.8666372022818332</data>
+</edge>
+<edge source="412474.0" target="412315.0">
+  <data key="d20">0.8660939330886018</data>
+</edge>
+<edge source="412474.0" target="412486.0">
+  <data key="d20">0.6065712076120923</data>
+</edge>
+<edge source="412474.0" target="412534.0">
+  <data key="d20">0.8712540683682386</data>
+</edge>
+<edge source="412474.0" target="412500.0">
+  <data key="d20">0.7054693901247168</data>
+</edge>
+<edge source="412474.0" target="412397.0">
+  <data key="d20">0.7149946414882988</data>
+</edge>
+<edge source="412474.0" target="412310.0">
+  <data key="d20">0.588609748069532</data>
+</edge>
+<edge source="412557.0" target="412527.0">
+  <data key="d20">0.6764192941742169</data>
+</edge>
+<edge source="412557.0" target="400220.0">
+  <data key="d20">0.6992415806088649</data>
+</edge>
+<edge source="412557.0" target="412399.0">
+  <data key="d20">0.7173330717025902</data>
+</edge>
+<edge source="412557.0" target="412221.0">
+  <data key="d20">0.7405632416316755</data>
+</edge>
+<edge source="412557.0" target="412547.0">
+  <data key="d20">0.6689281424295843</data>
+</edge>
+<edge source="412557.0" target="412271.0">
+  <data key="d20">0.5510473032857174</data>
+</edge>
+<edge source="412557.0" target="412214.0">
+  <data key="d20">0.4043395802768784</data>
+</edge>
+<edge source="412557.0" target="412520.0">
+  <data key="d20">0.12876272264670482</data>
+</edge>
+<edge source="412557.0" target="412560.0">
+  <data key="d20">0.7305528533397184</data>
+</edge>
+<edge source="412557.0" target="412286.0">
+  <data key="d20">0.48118046708011475</data>
+</edge>
+<edge source="412557.0" target="412498.0">
+  <data key="d20">0.5406982046487726</data>
+</edge>
+<edge source="412557.0" target="412502.0">
+  <data key="d20">0.5954212298569159</data>
+</edge>
+<edge source="412557.0" target="412315.0">
+  <data key="d20">0.6421747915964505</data>
+</edge>
+<edge source="412557.0" target="412486.0">
+  <data key="d20">0.37981986669843953</data>
+</edge>
+<edge source="412557.0" target="412534.0">
+  <data key="d20">0.5446778602579003</data>
+</edge>
+<edge source="412557.0" target="412500.0">
+  <data key="d20">0.5897781750462601</data>
+</edge>
+<edge source="412557.0" target="412397.0">
+  <data key="d20">0.4956310959395685</data>
+</edge>
+<edge source="412557.0" target="412310.0">
+  <data key="d20">0.5014565465128353</data>
+</edge>
+<edge source="412527.0" target="400220.0">
+  <data key="d20">0.8328398031932247</data>
+</edge>
+<edge source="412527.0" target="412399.0">
+  <data key="d20">0.8823155578824969</data>
+</edge>
+<edge source="412527.0" target="412221.0">
+  <data key="d20">0.8775250567370738</data>
+</edge>
+<edge source="412527.0" target="412547.0">
+  <data key="d20">0.8660940270909442</data>
+</edge>
+<edge source="412527.0" target="412271.0">
+  <data key="d20">0.7371839769406971</data>
+</edge>
+<edge source="412527.0" target="412214.0">
+  <data key="d20">0.6874134258689587</data>
+</edge>
+<edge source="412527.0" target="412520.0">
+  <data key="d20">0.13028105853579725</data>
+</edge>
+<edge source="412527.0" target="412560.0">
+  <data key="d20">0.8854660685724166</data>
+</edge>
+<edge source="412527.0" target="412286.0">
+  <data key="d20">0.6476320555384536</data>
+</edge>
+<edge source="412527.0" target="412498.0">
+  <data key="d20">0.7106391301747681</data>
+</edge>
+<edge source="412527.0" target="412502.0">
+  <data key="d20">0.8244064800848522</data>
+</edge>
+<edge source="412527.0" target="412315.0">
+  <data key="d20">0.8420104952282689</data>
+</edge>
+<edge source="412527.0" target="412486.0">
+  <data key="d20">0.512598164459053</data>
+</edge>
+<edge source="412527.0" target="412534.0">
+  <data key="d20">0.7683140431222636</data>
+</edge>
+<edge source="412527.0" target="412500.0">
+  <data key="d20">0.7732040736214757</data>
+</edge>
+<edge source="412527.0" target="412397.0">
+  <data key="d20">0.7124763921034019</data>
+</edge>
+<edge source="412527.0" target="412310.0">
+  <data key="d20">0.5905805910624913</data>
+</edge>
+<edge source="400220.0" target="412399.0">
+  <data key="d20">0.7384585369754935</data>
+</edge>
+<edge source="400220.0" target="412221.0">
+  <data key="d20">0.7258244353474376</data>
+</edge>
+<edge source="400220.0" target="412547.0">
+  <data key="d20">0.722743284189356</data>
+</edge>
+<edge source="400220.0" target="412271.0">
+  <data key="d20">0.5906538758002075</data>
+</edge>
+<edge source="400220.0" target="412214.0">
+  <data key="d20">0.4962137635408206</data>
+</edge>
+<edge source="400220.0" target="412520.0">
+  <data key="d20">0.11224862961341925</data>
+</edge>
+<edge source="400220.0" target="412560.0">
+  <data key="d20">0.7724607315645623</data>
+</edge>
+<edge source="400220.0" target="412286.0">
+  <data key="d20">0.518982334625211</data>
+</edge>
+<edge source="400220.0" target="412498.0">
+  <data key="d20">0.5784936744704277</data>
+</edge>
+<edge source="400220.0" target="412502.0">
+  <data key="d20">0.6292150228227013</data>
+</edge>
+<edge source="400220.0" target="412315.0">
+  <data key="d20">0.6955521051464179</data>
+</edge>
+<edge source="400220.0" target="412486.0">
+  <data key="d20">0.36155972707443457</data>
+</edge>
+<edge source="400220.0" target="412534.0">
+  <data key="d20">0.5568610139845361</data>
+</edge>
+<edge source="400220.0" target="412500.0">
+  <data key="d20">0.899187968624835</data>
+</edge>
+<edge source="400220.0" target="412397.0">
+  <data key="d20">0.5806578537895416</data>
+</edge>
+<edge source="400220.0" target="412310.0">
+  <data key="d20">0.5686679033235668</data>
+</edge>
+<edge source="412399.0" target="412221.0">
+  <data key="d20">0.9636830715765177</data>
+</edge>
+<edge source="412399.0" target="412547.0">
+  <data key="d20">0.9570257596558687</data>
+</edge>
+<edge source="412399.0" target="412271.0">
+  <data key="d20">0.7540408784310936</data>
+</edge>
+<edge source="412399.0" target="412214.0">
+  <data key="d20">0.6492587619648357</data>
+</edge>
+<edge source="412399.0" target="412520.0">
+  <data key="d20">0.180092285896303</data>
+</edge>
+<edge source="412399.0" target="412560.0">
+  <data key="d20">0.9577634625539443</data>
+</edge>
+<edge source="412399.0" target="412286.0">
+  <data key="d20">0.7141533345620462</data>
+</edge>
+<edge source="412399.0" target="412498.0">
+  <data key="d20">0.8083490230618329</data>
+</edge>
+<edge source="412399.0" target="412502.0">
+  <data key="d20">0.8873959293409813</data>
+</edge>
+<edge source="412399.0" target="412315.0">
+  <data key="d20">0.8504718364972569</data>
+</edge>
+<edge source="412399.0" target="412486.0">
+  <data key="d20">0.4998431529668043</data>
+</edge>
+<edge source="412399.0" target="412534.0">
+  <data key="d20">0.7971451667022784</data>
+</edge>
+<edge source="412399.0" target="412500.0">
+  <data key="d20">0.6462741318257779</data>
+</edge>
+<edge source="412399.0" target="412397.0">
+  <data key="d20">0.8151686557384333</data>
+</edge>
+<edge source="412399.0" target="412310.0">
+  <data key="d20">0.5901700678666948</data>
+</edge>
+<edge source="412221.0" target="412547.0">
+  <data key="d20">0.9468607281592673</data>
+</edge>
+<edge source="412221.0" target="412271.0">
+  <data key="d20">0.7724109539594526</data>
+</edge>
+<edge source="412221.0" target="412214.0">
+  <data key="d20">0.6907365912741432</data>
+</edge>
+<edge source="412221.0" target="412520.0">
+  <data key="d20">0.15125903615812708</data>
+</edge>
+<edge source="412221.0" target="412560.0">
+  <data key="d20">0.9514649210953914</data>
+</edge>
+<edge source="412221.0" target="412286.0">
+  <data key="d20">0.6918715948388905</data>
+</edge>
+<edge source="412221.0" target="412498.0">
+  <data key="d20">0.814843218502885</data>
+</edge>
+<edge source="412221.0" target="412502.0">
+  <data key="d20">0.8930505927079192</data>
+</edge>
+<edge source="412221.0" target="412315.0">
+  <data key="d20">0.8866314738674758</data>
+</edge>
+<edge source="412221.0" target="412486.0">
+  <data key="d20">0.5425071141249871</data>
+</edge>
+<edge source="412221.0" target="412534.0">
+  <data key="d20">0.8532015206617378</data>
+</edge>
+<edge source="412221.0" target="412500.0">
+  <data key="d20">0.6584148842652949</data>
+</edge>
+<edge source="412221.0" target="412397.0">
+  <data key="d20">0.7306132224778915</data>
+</edge>
+<edge source="412221.0" target="412310.0">
+  <data key="d20">0.625192389000165</data>
+</edge>
+<edge source="412547.0" target="412271.0">
+  <data key="d20">0.7897514040950843</data>
+</edge>
+<edge source="412547.0" target="412214.0">
+  <data key="d20">0.7211468686450211</data>
+</edge>
+<edge source="412547.0" target="412520.0">
+  <data key="d20">0.25066608283931796</data>
+</edge>
+<edge source="412547.0" target="412560.0">
+  <data key="d20">0.9418508707627191</data>
+</edge>
+<edge source="412547.0" target="412286.0">
+  <data key="d20">0.719850348230499</data>
+</edge>
+<edge source="412547.0" target="412498.0">
+  <data key="d20">0.8117139470014898</data>
+</edge>
+<edge source="412547.0" target="412502.0">
+  <data key="d20">0.8781747883669822</data>
+</edge>
+<edge source="412547.0" target="412315.0">
+  <data key="d20">0.8710343750152231</data>
+</edge>
+<edge source="412547.0" target="412486.0">
+  <data key="d20">0.5266486066822009</data>
+</edge>
+<edge source="412547.0" target="412534.0">
+  <data key="d20">0.8247121847545424</data>
+</edge>
+<edge source="412547.0" target="412500.0">
+  <data key="d20">0.6834442629324103</data>
+</edge>
+<edge source="412547.0" target="412397.0">
+  <data key="d20">0.7063175837555212</data>
+</edge>
+<edge source="412547.0" target="412310.0">
+  <data key="d20">0.6724843899735693</data>
+</edge>
+<edge source="412271.0" target="412214.0">
+  <data key="d20">0.8988258334668385</data>
+</edge>
+<edge source="412271.0" target="412520.0">
+  <data key="d20">0.480685605106036</data>
+</edge>
+<edge source="412271.0" target="412560.0">
+  <data key="d20">0.8080461129948556</data>
+</edge>
+<edge source="412271.0" target="412286.0">
+  <data key="d20">0.8458080093748993</data>
+</edge>
+<edge source="412271.0" target="412498.0">
+  <data key="d20">0.6415112033425987</data>
+</edge>
+<edge source="412271.0" target="412502.0">
+  <data key="d20">0.7615272631861058</data>
+</edge>
+<edge source="412271.0" target="412315.0">
+  <data key="d20">0.8986875417175854</data>
+</edge>
+<edge source="412271.0" target="412486.0">
+  <data key="d20">0.6035614565042084</data>
+</edge>
+<edge source="412271.0" target="412534.0">
+  <data key="d20">0.6372291950029784</data>
+</edge>
+<edge source="412271.0" target="412500.0">
+  <data key="d20">0.5237730222358981</data>
+</edge>
+<edge source="412271.0" target="412397.0">
+  <data key="d20">0.6426111034899118</data>
+</edge>
+<edge source="412271.0" target="412310.0">
+  <data key="d20">0.7559186795105144</data>
+</edge>
+<edge source="412214.0" target="412520.0">
+  <data key="d20">0.39441465633939665</data>
+</edge>
+<edge source="412214.0" target="412560.0">
+  <data key="d20">0.6847217111954496</data>
+</edge>
+<edge source="412214.0" target="412286.0">
+  <data key="d20">0.7624328577802075</data>
+</edge>
+<edge source="412214.0" target="412498.0">
+  <data key="d20">0.5073822111007437</data>
+</edge>
+<edge source="412214.0" target="412502.0">
+  <data key="d20">0.6813410227333992</data>
+</edge>
+<edge source="412214.0" target="412315.0">
+  <data key="d20">0.8362552714799307</data>
+</edge>
+<edge source="412214.0" target="412486.0">
+  <data key="d20">0.5042917451661327</data>
+</edge>
+<edge source="412214.0" target="412534.0">
+  <data key="d20">0.5897413369469108</data>
+</edge>
+<edge source="412214.0" target="412500.0">
+  <data key="d20">0.48297265738959816</data>
+</edge>
+<edge source="412214.0" target="412397.0">
+  <data key="d20">0.45246384557699854</data>
+</edge>
+<edge source="412214.0" target="412310.0">
+  <data key="d20">0.6761455240141979</data>
+</edge>
+<edge source="412520.0" target="412560.0">
+  <data key="d20">0.19080841671421</data>
+</edge>
+<edge source="412520.0" target="412286.0">
+  <data key="d20">0.31648432719025177</data>
+</edge>
+<edge source="412520.0" target="412498.0">
+  <data key="d20">0.15668584037251757</data>
+</edge>
+<edge source="412520.0" target="412502.0">
+  <data key="d20">0.10428837482615148</data>
+</edge>
+<edge source="412520.0" target="412315.0">
+  <data key="d20">0.22480300402157877</data>
+</edge>
+<edge source="412520.0" target="412486.0">
+  <data key="d20">0.12306855518869184</data>
+</edge>
+<edge source="412520.0" target="412534.0">
+  <data key="d20">0.0857235102811233</data>
+</edge>
+<edge source="412520.0" target="412500.0">
+  <data key="d20">0.036965352685965625</data>
+</edge>
+<edge source="412520.0" target="412397.0">
+  <data key="d20">0.1854926999184884</data>
+</edge>
+<edge source="412520.0" target="412310.0">
+  <data key="d20">0.5464710956386603</data>
+</edge>
+<edge source="412560.0" target="412286.0">
+  <data key="d20">0.7750147381728335</data>
+</edge>
+<edge source="412560.0" target="412498.0">
+  <data key="d20">0.799740343462044</data>
+</edge>
+<edge source="412560.0" target="412502.0">
+  <data key="d20">0.892550581363742</data>
+</edge>
+<edge source="412560.0" target="412315.0">
+  <data key="d20">0.8728097169823076</data>
+</edge>
+<edge source="412560.0" target="412486.0">
+  <data key="d20">0.49836445189655515</data>
+</edge>
+<edge source="412560.0" target="412534.0">
+  <data key="d20">0.8091536758684542</data>
+</edge>
+<edge source="412560.0" target="412500.0">
+  <data key="d20">0.7228789129407148</data>
+</edge>
+<edge source="412560.0" target="412397.0">
+  <data key="d20">0.811151194946979</data>
+</edge>
+<edge source="412560.0" target="412310.0">
+  <data key="d20">0.6687007061952931</data>
+</edge>
+<edge source="412286.0" target="412498.0">
+  <data key="d20">0.5422545727122581</data>
+</edge>
+<edge source="412286.0" target="412502.0">
+  <data key="d20">0.6804860324460569</data>
+</edge>
+<edge source="412286.0" target="412315.0">
+  <data key="d20">0.7284125022392032</data>
+</edge>
+<edge source="412286.0" target="412486.0">
+  <data key="d20">0.411255116410957</data>
+</edge>
+<edge source="412286.0" target="412534.0">
+  <data key="d20">0.5128583965021316</data>
+</edge>
+<edge source="412286.0" target="412500.0">
+  <data key="d20">0.4761848638338051</data>
+</edge>
+<edge source="412286.0" target="412397.0">
+  <data key="d20">0.6592415834317052</data>
+</edge>
+<edge source="412286.0" target="412310.0">
+  <data key="d20">0.7075231515603171</data>
+</edge>
+<edge source="412498.0" target="412502.0">
+  <data key="d20">0.775800454861869</data>
+</edge>
+<edge source="412498.0" target="412315.0">
+  <data key="d20">0.8106548087971174</data>
+</edge>
+<edge source="412498.0" target="412486.0">
+  <data key="d20">0.7224651736109317</data>
+</edge>
+<edge source="412498.0" target="412534.0">
+  <data key="d20">0.8335894914975596</data>
+</edge>
+<edge source="412498.0" target="412500.0">
+  <data key="d20">0.5068237051270486</data>
+</edge>
+<edge source="412498.0" target="412397.0">
+  <data key="d20">0.675828898901264</data>
+</edge>
+<edge source="412498.0" target="412310.0">
+  <data key="d20">0.4481236874578838</data>
+</edge>
+<edge source="412502.0" target="412315.0">
+  <data key="d20">0.8527046992582178</data>
+</edge>
+<edge source="412502.0" target="412486.0">
+  <data key="d20">0.6092274811311925</data>
+</edge>
+<edge source="412502.0" target="412534.0">
+  <data key="d20">0.8302108064631782</data>
+</edge>
+<edge source="412502.0" target="412500.0">
+  <data key="d20">0.5628718176106539</data>
+</edge>
+<edge source="412502.0" target="412397.0">
+  <data key="d20">0.7754111763659364</data>
+</edge>
+<edge source="412502.0" target="412310.0">
+  <data key="d20">0.5206975639937129</data>
+</edge>
+<edge source="412315.0" target="412486.0">
+  <data key="d20">0.7169028286842748</data>
+</edge>
+<edge source="412315.0" target="412534.0">
+  <data key="d20">0.8189759133015587</data>
+</edge>
+<edge source="412315.0" target="412500.0">
+  <data key="d20">0.6017966912741284</data>
+</edge>
+<edge source="412315.0" target="412397.0">
+  <data key="d20">0.6838334124749024</data>
+</edge>
+<edge source="412315.0" target="412310.0">
+  <data key="d20">0.6029552928749342</data>
+</edge>
+<edge source="412486.0" target="412534.0">
+  <data key="d20">0.6254740557562893</data>
+</edge>
+<edge source="412486.0" target="412500.0">
+  <data key="d20">0.20493040476116822</data>
+</edge>
+<edge source="412486.0" target="412397.0">
+  <data key="d20">0.4081687029270392</data>
+</edge>
+<edge source="412486.0" target="412310.0">
+  <data key="d20">0.25024348134446495</data>
+</edge>
+<edge source="412534.0" target="412500.0">
+  <data key="d20">0.5218998951448149</data>
+</edge>
+<edge source="412534.0" target="412397.0">
+  <data key="d20">0.6388780942102322</data>
+</edge>
+<edge source="412534.0" target="412310.0">
+  <data key="d20">0.42045188471506884</data>
+</edge>
+<edge source="412500.0" target="412397.0">
+  <data key="d20">0.4308297943344549</data>
+</edge>
+<edge source="412500.0" target="412310.0">
+  <data key="d20">0.5978071965251109</data>
+</edge>
+<edge source="412397.0" target="412310.0">
+  <data key="d20">0.39178412168768906</data>
+</edge>
+</graph></graphml>
