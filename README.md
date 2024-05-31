@@ -16,12 +16,12 @@ Our dataset consists of all transcripts of the U.S. House hearings in the 105th-
 3. Methodology
 Our framework has three steps: We (1) reduce the communication to lower-dimensional issue areas, (2) build weighted networks based on issue similarity, and (3) identify influential actors with high network centrality. 
 
-  (1) Topic Classification: To analyze the unstructured transcripts, we first reduce each speech to a meaningful low dimensionality, e.g., policy issues. We use the Latent Dirichlet Allocation (LDA) algorithm to obtain the proportion of each topic that appears in each speech, after a common preprocessing.
-  The classification quality of our LDA model was evaluated using a perplexity score (Wallach et al., 2009). Although we used a basic topic model, issue classification can be done using different approaches, e.g., sentence embeddings, DNN-based disentanglement learning.
-  
-  (2) Similarity Networks: Actors who can address more general issues would be more influential because they can communicate and collaborate with more colleagues. Our strategy for estimating influence is stable influence across multiple hearings. Therefore, we build a similarity network using the average topic proportion of actors who participated in the same hearing–i.e., members of the same committee. The network weighting is computed as the cosine similarity between two actors. 
-  
-  (3) Influence Score: Influential actors in the topic similarity network are identified with mean cosine similarity (edges) of interesting factors
+(1) Topic Classification: To analyze the unstructured transcripts, we first reduce each speech to a meaningful low dimensionality, e.g., policy issues. We use the Latent Dirichlet Allocation (LDA) algorithm to obtain the proportion of each topic that appears in each speech, after a common preprocessing.
+The classification quality of our LDA model was evaluated using a perplexity score (Wallach et al., 2009). Although we used a basic topic model, issue classification can be done using different approaches, e.g., sentence embeddings, DNN-based disentanglement learning.
+
+(2) Similarity Networks: Actors who can address more general issues would be more influential because they can communicate and collaborate with more colleagues. Our strategy for estimating influence is stable influence across multiple hearings. Therefore, we build a similarity network using the average topic proportion of actors who participated in the same hearing–i.e., members of the same committee. The network weighting is computed as the cosine similarity between two actors. 
+
+(3) Influence Score: Influential actors in the topic similarity network are identified with mean cosine similarity (edges) of interesting factors
 
 4. Results
 Influential actors–i.e., better connected actors in our analysis–are found by comparing the average cosine similarity. We do not find any differences in influence between political parties in the committees, but we do find that members who hold party leadership positions have higher influence than those who do not. 
